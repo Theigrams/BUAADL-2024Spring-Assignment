@@ -17,6 +17,7 @@
 1. Lab1：在测试集上的MAE（Mean Absolute Error）小于1.5
 2. Lab2：在测试集上的准确率大于50%，并在训练集上的准确率大于80%
 
-## 截止日期
+## 作业提交
 
-待定
+- 提交地址：[HW1提交](https://bhpan.buaa.edu.cn/link/AAFCD734F8A4004B77AD40D9C55EA05276)
+- 截止时间：2024-04-08 00:00
